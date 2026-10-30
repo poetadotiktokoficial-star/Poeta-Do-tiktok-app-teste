@@ -1,0 +1,6 @@
+{
+  "name": "DarkCreator",
+  "description": "Fábrica de conteúdo e infoprodutos: transforme livros, documentos, áudios e vídeos em roteiros dark, ideias de postagens, prompts de imagens, nichos e infoprodutos lucrativos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
